@@ -18,7 +18,7 @@
 ### Autre - sans restriction
 * Savoir (Opérations à bord d'un vaisseau)
 ### Niveau 2
-* Transport (Véhicules interstéllaires)
+* Savoir (Science de la vie)
 ### Niveau 3
 * Savoir (Auriges)
 
