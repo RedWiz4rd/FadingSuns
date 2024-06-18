@@ -1,103 +1,45 @@
-## Perso
-Humain Decados Espion chez les Auriges
-Perception & Intuition en majeures
+# Tixu "Sri Lumpa" Oty 
+## Humain Decados Espion chez les Auriges
 
 ## Aptitudes
 ### Noble
-Arts ()
-Armes de mêlée (Militaires)
-Coutumes (Cour)
-Lire/Parler taerrien
-Savoir (Monde natal : Pandemonium, Cadavus, Malignatius, Severus, Cadiz)
+* Arts (Imagerie)
+* Armes de mêlée (Militaires)
+* Coutumes (Cour)
+* Lire/Parler taerrien
+* Savoir (Monde natal : Pandemonium, Cadavus, Malignatius, Severus, Cadiz je sais pas encore)
 ### Decados
-Savoir (Decados)
-Arts () ou Médical (Poison)
-Cannoneurs énergétiques ou Cannoneurs en fonction des Auriges
+* Savoir (Decados)
+* Médical (Poison)
+* Cannoneurs énergétiques
 ### Espion
-1 de la fausse identité genre Coutumes (Populaire)
-Coutumes (monde de la rue) ou Médical (Poison)
-
-1 Aptitude sans restriction
+* Coutumes (Populaire)
+* Coutumes (monde de la rue)
+### Autre - sans restriction
+* Savoir (Opérations à bord d'un vaisseau)
+### Niveau 2
+* Transport (Véhicules interstéllaires)
+### Niveau 3
+* Savoir (Auriges)
 
 ## Avantage
 ### Noble
-1 parmi plus bas
-Impérieux
-
+* Combat 2 pistolets
+* Impérieux
 ### Decados
-Titre de noblesse (chevalier)
-
+* Titre de noblesse (chevalier)
 ### Espion
-1 parmi plus bas
-
-1 Avatange sans restriction
-
-AVANTAGE NOBLE
-Arts martiaux
-Bénédiction de Saint Lextius
-Combat avec deux pistolets
-Escrime
-Impérieux (déjà accordé pendant l’étape de l’Éducation,
-comme indiqué précédemment)
-La loi c’est moi
-Mandataire
-Noblesse oblige
-Preste
-Propriétaire terrien
-Richesses
-Serviteur
-Titre de noblesse (l’étape d’apprentissage de la faction
-ci-après vous accorde cet avantage au rang 1)
-
-AVANTAGE ESPION
-Agent secret
-Agitateur
-Arts martiaux
-Imitateur
-Impitoyable
-Insulte venimeuse
-Seconde peau
-
-AVANTAGES AURIGES/PILOTES STELLAIRES
-Aubaine
-Mécano
-Pilote cascadeur
-Rang militaire
-Risque-tout
-Téméraire
-
-AVANTAGE OUVERTS
-Allié
-Ambidextre
-Ami des extraterrestres [choisissez une espèce]
-As
-Avocat de la guilde des Magistrats
-Célébrité/Infamie
-Charmant
-Comme un roc
-Conseiller
-Contact
-Contacts dans la pègre
-Contrat de passage
-Éducation extraterrestre [choisissez une espèce]
-Entrée d’argent
-Esprit stoïque
-Éveil de la passion
-Lanceur de mode
-Liens familiaux
-Maestria
-Mental stoïque
-Perception du danger
-Refuge
-Réseau d’informateurs
-Sang-froid
-Sans détour
-Sensibilité occulte
-Suite
-Vétéran
-Voyageur expérimenté
+Agent Secret Jakoviens des Decados
+### Autre
+1 Avatange sans restriction - Contacts dans la pègre
+### Niveau 2 - 1 Espion
+* Imitateur
+### Niveau 3 - 1 Espion + 1 Noble
+* Ambidextre
+* Immunité Diplo
 
 ## Caracs
+Perception & Intuition en majeures
 ### Noble
 Dex +1
 Volonté +1
@@ -113,6 +55,10 @@ Dex +1
 Per +2
 Presence +1
 Sagacité +1
+### Niveau 2
+Dex +2
+### Niveau 3
+Per +1
 
 ## Compétences
 ### Noble
@@ -121,16 +67,27 @@ Arts 1
 Charme 2
 Contact 1
 ### Decados
-Filouterie 1 ou Charme 1 ou Prestance 1
+Filouterie 1
 Tir 1
-Intrusion 1 ou Déguisement 1
-Erudition 1 ou Arts 1
-Discretion 1 ou Observation 1
+Intrusion 1
+Erudition 1
+Discretion 1
 ### Espion
 Discretion 1
 Filouterie 2
 Observation 2
-5 pts chez Auriges : Charme, Prestance, Conduite, Interface, Observation, Pilotage, Tir, Rédemption Tech
+5 pts chez Auriges :
+Charme 1
+Interface 1
+Observation 2
+Tir 1
+### Niveau 2
+Tir 1
+Discretion 1
+Observation 1
+### Niveau 3
+Tir 1
+Charme 1
 
 ## Matériel
 Meilleur ami (+1 compétence sur un jet mais -1 ensuite)
@@ -152,15 +109,6 @@ OU
 Yussef le Recouvreur d’Âmes
 
 ## Niveau 2
-1 Aptitude
-+2 Carac
-1 Avantage de vocation Espion
-+3 Compétences
 +1 Vitalité
-
 ## Niveau 3
-1 Aptitude
-+1 Carac
-1 Avantage de classe (Noble), 1 Avantage de vocation
-+2 Compétences
 +1 Vitalité
