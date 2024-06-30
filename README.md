@@ -48,8 +48,8 @@ Sagacité +1
 ### Decados
 Dex +1
 Per +1
-Volonté +1
-Présence +2
+Volonté +2
+Présence +1
 ### Espion
 Dex +1
 Per +2
