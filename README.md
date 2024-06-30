@@ -105,8 +105,6 @@ Sybarite
 
 ## St Patron
 Le Père des Secrets, Protecteur de Malignatius
-OU
-Yussef le Recouvreur d’Âmes
 
 ## Niveau 2
 +1 Vitalité
