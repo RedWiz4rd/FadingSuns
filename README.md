@@ -58,7 +58,7 @@ Sagacité +1
 ### Niveau 2
 Dex +2
 ### Niveau 3
-Per +1
+Intuition +1
 
 ## Compétences
 ### Noble
