@@ -95,7 +95,7 @@ Combinaison spatiale
 Porte bonheur
 
 ## Bénédiction
-Médiant
+Méfiant
 
 ## Malédiction
 Vaniteux
